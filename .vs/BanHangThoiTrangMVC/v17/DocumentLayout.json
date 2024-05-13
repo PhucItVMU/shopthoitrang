@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Downloads\\BanHangThoiTrangMVC.-v1rar\\BanHangThoiTrangMVC.-v1rar\\BanHangThoiTrangMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB31976B-6D42-48D8-8DB9-9A88BF8DCE26}|BanHangThoiTrangMVC\\BanHangThoiTrangMVC.csproj|c:\\users\\administrator\\downloads\\banhangthoitrangmvc.-v1rar\\banhangthoitrangmvc.-v1rar\\banhangthoitrangmvc\\banhangthoitrangmvc\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CB31976B-6D42-48D8-8DB9-9A88BF8DCE26}|BanHangThoiTrangMVC\\BanHangThoiTrangMVC.csproj|solutionrelative:banhangthoitrangmvc\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB31976B-6D42-48D8-8DB9-9A88BF8DCE26}|BanHangThoiTrangMVC\\BanHangThoiTrangMVC.csproj|c:\\users\\administrator\\downloads\\banhangthoitrangmvc.-v1rar\\banhangthoitrangmvc.-v1rar\\banhangthoitrangmvc\\banhangthoitrangmvc\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB31976B-6D42-48D8-8DB9-9A88BF8DCE26}|BanHangThoiTrangMVC\\BanHangThoiTrangMVC.csproj|solutionrelative:banhangthoitrangmvc\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB31976B-6D42-48D8-8DB9-9A88BF8DCE26}|BanHangThoiTrangMVC\\BanHangThoiTrangMVC.csproj|c:\\users\\administrator\\downloads\\banhangthoitrangmvc.-v1rar\\banhangthoitrangmvc.-v1rar\\banhangthoitrangmvc\\banhangthoitrangmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB31976B-6D42-48D8-8DB9-9A88BF8DCE26}|BanHangThoiTrangMVC\\BanHangThoiTrangMVC.csproj|solutionrelative:banhangthoitrangmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB31976B-6D42-48D8-8DB9-9A88BF8DCE26}|BanHangThoiTrangMVC\\BanHangThoiTrangMVC.csproj|c:\\users\\administrator\\downloads\\banhangthoitrangmvc.-v1rar\\banhangthoitrangmvc.-v1rar\\banhangthoitrangmvc\\banhangthoitrangmvc\\models\\accountviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB31976B-6D42-48D8-8DB9-9A88BF8DCE26}|BanHangThoiTrangMVC\\BanHangThoiTrangMVC.csproj|solutionrelative:banhangthoitrangmvc\\models\\accountviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB31976B-6D42-48D8-8DB9-9A88BF8DCE26}|BanHangThoiTrangMVC\\BanHangThoiTrangMVC.csproj|c:\\users\\administrator\\downloads\\banhangthoitrangmvc.-v1rar\\banhangthoitrangmvc.-v1rar\\banhangthoitrangmvc\\banhangthoitrangmvc\\banhangthoitrangmvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CB31976B-6D42-48D8-8DB9-9A88BF8DCE26}|BanHangThoiTrangMVC\\BanHangThoiTrangMVC.csproj|solutionrelative:banhangthoitrangmvc\\banhangthoitrangmvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB31976B-6D42-48D8-8DB9-9A88BF8DCE26}|BanHangThoiTrangMVC\\BanHangThoiTrangMVC.csproj|c:\\users\\administrator\\downloads\\banhangthoitrangmvc.-v1rar\\banhangthoitrangmvc.-v1rar\\banhangthoitrangmvc\\banhangthoitrangmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CB31976B-6D42-48D8-8DB9-9A88BF8DCE26}|BanHangThoiTrangMVC\\BanHangThoiTrangMVC.csproj|solutionrelative:banhangthoitrangmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccountViewModels.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\BanHangThoiTrangMVC.-v1rar\\BanHangThoiTrangMVC.-v1rar\\BanHangThoiTrangMVC\\BanHangThoiTrangMVC\\Models\\AccountViewModels.cs",
+              "RelativeDocumentMoniker": "BanHangThoiTrangMVC\\Models\\AccountViewModels.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\BanHangThoiTrangMVC.-v1rar\\BanHangThoiTrangMVC.-v1rar\\BanHangThoiTrangMVC\\BanHangThoiTrangMVC\\Models\\AccountViewModels.cs",
+              "RelativeToolTip": "BanHangThoiTrangMVC\\Models\\AccountViewModels.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAjwDcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T14:30:18.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\BanHangThoiTrangMVC.-v1rar\\BanHangThoiTrangMVC.-v1rar\\BanHangThoiTrangMVC\\BanHangThoiTrangMVC\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "BanHangThoiTrangMVC\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\BanHangThoiTrangMVC.-v1rar\\BanHangThoiTrangMVC.-v1rar\\BanHangThoiTrangMVC\\BanHangThoiTrangMVC\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "BanHangThoiTrangMVC\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAgwDcAAACSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T14:28:29.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\BanHangThoiTrangMVC.-v1rar\\BanHangThoiTrangMVC.-v1rar\\BanHangThoiTrangMVC\\BanHangThoiTrangMVC\\appsettings.json",
+              "RelativeDocumentMoniker": "BanHangThoiTrangMVC\\appsettings.json",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\BanHangThoiTrangMVC.-v1rar\\BanHangThoiTrangMVC.-v1rar\\BanHangThoiTrangMVC\\BanHangThoiTrangMVC\\appsettings.json",
+              "RelativeToolTip": "BanHangThoiTrangMVC\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-12T14:17:28.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\BanHangThoiTrangMVC.-v1rar\\BanHangThoiTrangMVC.-v1rar\\BanHangThoiTrangMVC\\BanHangThoiTrangMVC\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "BanHangThoiTrangMVC\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\BanHangThoiTrangMVC.-v1rar\\BanHangThoiTrangMVC.-v1rar\\BanHangThoiTrangMVC\\BanHangThoiTrangMVC\\appsettings.Development.json",
+              "RelativeToolTip": "BanHangThoiTrangMVC\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-12T14:17:21.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\BanHangThoiTrangMVC.-v1rar\\BanHangThoiTrangMVC.-v1rar\\BanHangThoiTrangMVC\\BanHangThoiTrangMVC\\Program.cs",
+              "RelativeDocumentMoniker": "BanHangThoiTrangMVC\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\BanHangThoiTrangMVC.-v1rar\\BanHangThoiTrangMVC.-v1rar\\BanHangThoiTrangMVC\\BanHangThoiTrangMVC\\Program.cs",
+              "RelativeToolTip": "BanHangThoiTrangMVC\\Program.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T14:59:21.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BanHangThoiTrangMVC",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\BanHangThoiTrangMVC.-v1rar\\BanHangThoiTrangMVC.-v1rar\\BanHangThoiTrangMVC\\BanHangThoiTrangMVC\\BanHangThoiTrangMVC.csproj",
+              "RelativeDocumentMoniker": "BanHangThoiTrangMVC\\BanHangThoiTrangMVC.csproj",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\BanHangThoiTrangMVC.-v1rar\\BanHangThoiTrangMVC.-v1rar\\BanHangThoiTrangMVC\\BanHangThoiTrangMVC\\BanHangThoiTrangMVC.csproj",
+              "RelativeToolTip": "BanHangThoiTrangMVC\\BanHangThoiTrangMVC.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-12T13:37:25.418Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

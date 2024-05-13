@@ -1,0 +1,363 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = BanHangThoiTrangMVC
+build_property.RootNamespace = BanHangThoiTrangMVC
+build_property.ProjectDir = C:\Users\Administrator\Downloads\BanHangThoiTrangMVC.-v1rar\BanHangThoiTrangMVC.-v1rar\BanHangThoiTrangMVC\BanHangThoiTrangMVC\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Administrator\Downloads\BanHangThoiTrangMVC.-v1rar\BanHangThoiTrangMVC.-v1rar\BanHangThoiTrangMVC\BanHangThoiTrangMVC
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Administrator/Downloads/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC/BanHangThoiTrangMVC/Areas/Admin/Views/Category/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcnlcQWRkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Downloads/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC/BanHangThoiTrangMVC/Areas/Admin/Views/Category/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcnlcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Downloads/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC/BanHangThoiTrangMVC/Areas/Admin/Views/Category/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcnlcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Downloads/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC/BanHangThoiTrangMVC/Areas/Admin/Views/ManageAccount/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTWFuYWdlQWNjb3VudFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Downloads/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC/BanHangThoiTrangMVC/Areas/Admin/Views/ManageAccount/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTWFuYWdlQWNjb3VudFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Downloads/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC/BanHangThoiTrangMVC/Areas/Admin/Views/ManageAccount/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTWFuYWdlQWNjb3VudFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Downloads/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC/BanHangThoiTrangMVC/Areas/Admin/Views/ManageAccount/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTWFuYWdlQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Downloads/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC/BanHangThoiTrangMVC/Areas/Admin/Views/ManageHome/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTWFuYWdlSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Downloads/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC/BanHangThoiTrangMVC/Areas/Admin/Views/News/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTmV3c1xBZGQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Downloads/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC/BanHangThoiTrangMVC/Areas/Admin/Views/News/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTmV3c1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Downloads/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC/BanHangThoiTrangMVC/Areas/Admin/Views/News/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTmV3c1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Downloads/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC/BanHangThoiTrangMVC/Areas/Admin/Views/Order/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcT3JkZXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Downloads/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC/BanHangThoiTrangMVC/Areas/Admin/Views/Order/Partial_SanPham.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcT3JkZXJcUGFydGlhbF9TYW5QaGFtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Downloads/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC/BanHangThoiTrangMVC/Areas/Admin/Views/Order/ViewOrder.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcT3JkZXJcVmlld09yZGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Downloads/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC/BanHangThoiTrangMVC/Areas/Admin/Views/Posts/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUG9zdHNcQWRkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Downloads/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC/BanHangThoiTrangMVC/Areas/Admin/Views/Posts/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUG9zdHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Downloads/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC/BanHangThoiTrangMVC/Areas/Admin/Views/Posts/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUG9zdHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Downloads/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC/BanHangThoiTrangMVC/Areas/Admin/Views/ProductCategory/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdENhdGVnb3J5XEFkZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Downloads/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC/BanHangThoiTrangMVC/Areas/Admin/Views/ProductCategory/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdENhdGVnb3J5XEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Downloads/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC/BanHangThoiTrangMVC/Areas/Admin/Views/ProductCategory/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdENhdGVnb3J5XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Downloads/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC/BanHangThoiTrangMVC/Areas/Admin/Views/ProductImage/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdEltYWdlXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Downloads/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC/BanHangThoiTrangMVC/Areas/Admin/Views/Products/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdHNcQWRkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Downloads/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC/BanHangThoiTrangMVC/Areas/Admin/Views/Products/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Downloads/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC/BanHangThoiTrangMVC/Areas/Admin/Views/Products/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Downloads/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC/BanHangThoiTrangMVC/Areas/Admin/Views/Role/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUm9sZVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Downloads/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC/BanHangThoiTrangMVC/Areas/Admin/Views/Role/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUm9sZVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Downloads/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC/BanHangThoiTrangMVC/Areas/Admin/Views/Role/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUm9sZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Downloads/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC/BanHangThoiTrangMVC/Areas/Admin/Views/SettingSystem/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2V0dGluZ1N5c3RlbVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Downloads/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC/BanHangThoiTrangMVC/Areas/Admin/Views/SettingSystem/Partial_Setting.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2V0dGluZ1N5c3RlbVxQYXJ0aWFsX1NldHRpbmcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Downloads/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC/BanHangThoiTrangMVC/Areas/Admin/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Downloads/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC/BanHangThoiTrangMVC/Areas/Admin/Views/Shared/_LayoutEmpty.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9MYXlvdXRFbXB0eS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Downloads/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC/BanHangThoiTrangMVC/Areas/Admin/Views/Shared/_LayoutLogin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9MYXlvdXRMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Downloads/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC/BanHangThoiTrangMVC/Areas/Admin/Views/Shared/_PartialSideBar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9QYXJ0aWFsU2lkZUJhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Downloads/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC/BanHangThoiTrangMVC/Areas/Admin/Views/Statistical/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU3RhdGlzdGljYWxcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Downloads/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC/BanHangThoiTrangMVC/Areas/Admin/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Downloads/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC/BanHangThoiTrangMVC/Areas/Admin/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Downloads/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC/BanHangThoiTrangMVC/Views/Account/ConfirmEmail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxDb25maXJtRW1haWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Downloads/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC/BanHangThoiTrangMVC/Views/Account/ExternalLoginConfirmation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxFeHRlcm5hbExvZ2luQ29uZmlybWF0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Downloads/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC/BanHangThoiTrangMVC/Views/Account/ExternalLoginFailure.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxFeHRlcm5hbExvZ2luRmFpbHVyZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Downloads/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC/BanHangThoiTrangMVC/Views/Account/ForgotPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxGb3Jnb3RQYXNzd29yZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Downloads/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC/BanHangThoiTrangMVC/Views/Account/ForgotPasswordConfirmation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxGb3Jnb3RQYXNzd29yZENvbmZpcm1hdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Downloads/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC/BanHangThoiTrangMVC/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Downloads/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC/BanHangThoiTrangMVC/Views/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Downloads/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC/BanHangThoiTrangMVC/Views/Account/ResetPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZXNldFBhc3N3b3JkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Downloads/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC/BanHangThoiTrangMVC/Views/Account/ResetPasswordConfirmation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZXNldFBhc3N3b3JkQ29uZmlybWF0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Downloads/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC/BanHangThoiTrangMVC/Views/Account/SendCode.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxTZW5kQ29kZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Downloads/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC/BanHangThoiTrangMVC/Views/Account/VerifyCode.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxWZXJpZnlDb2RlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Downloads/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC/BanHangThoiTrangMVC/Views/Account/_ExternalLoginsListPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxfRXh0ZXJuYWxMb2dpbnNMaXN0UGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Downloads/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC/BanHangThoiTrangMVC/Views/Article/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJ0aWNsZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Downloads/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC/BanHangThoiTrangMVC/Views/Contact/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Downloads/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC/BanHangThoiTrangMVC/Views/Home/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Downloads/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC/BanHangThoiTrangMVC/Views/Home/Contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Downloads/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC/BanHangThoiTrangMVC/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Downloads/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC/BanHangThoiTrangMVC/Views/Home/Refresh.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxSZWZyZXNoLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Downloads/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC/BanHangThoiTrangMVC/Views/Manage/AddPhoneNumber.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuYWdlXEFkZFBob25lTnVtYmVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Downloads/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC/BanHangThoiTrangMVC/Views/Manage/ChangePassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuYWdlXENoYW5nZVBhc3N3b3JkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Downloads/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC/BanHangThoiTrangMVC/Views/Manage/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuYWdlXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Downloads/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC/BanHangThoiTrangMVC/Views/Manage/ManageLogins.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuYWdlXE1hbmFnZUxvZ2lucy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Downloads/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC/BanHangThoiTrangMVC/Views/Manage/SetPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuYWdlXFNldFBhc3N3b3JkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Downloads/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC/BanHangThoiTrangMVC/Views/Manage/VerifyPhoneNumber.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuYWdlXFZlcmlmeVBob25lTnVtYmVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Downloads/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC/BanHangThoiTrangMVC/Views/News/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmV3c1xEZXRhaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Downloads/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC/BanHangThoiTrangMVC/Views/News/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmV3c1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Downloads/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC/BanHangThoiTrangMVC/Views/News/Partial_News_Home.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmV3c1xQYXJ0aWFsX05ld3NfSG9tZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Downloads/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC/BanHangThoiTrangMVC/Views/Products/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcRGV0YWlsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Downloads/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC/BanHangThoiTrangMVC/Views/Products/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Downloads/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC/BanHangThoiTrangMVC/Views/Products/Partial_ItemsByCateId.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcUGFydGlhbF9JdGVtc0J5Q2F0ZUlkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Downloads/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC/BanHangThoiTrangMVC/Views/Products/ProductCategory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcUHJvZHVjdENhdGVnb3J5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Downloads/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC/BanHangThoiTrangMVC/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Downloads/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC/BanHangThoiTrangMVC/Views/Shared/Lockout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXExvY2tvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Downloads/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC/BanHangThoiTrangMVC/Views/Shared/Partial_ProductSale.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBhcnRpYWxfUHJvZHVjdFNhbGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Downloads/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC/BanHangThoiTrangMVC/Views/Shared/Partial_Subcribe.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBhcnRpYWxfU3ViY3JpYmUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Downloads/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC/BanHangThoiTrangMVC/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Downloads/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC/BanHangThoiTrangMVC/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Downloads/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC/BanHangThoiTrangMVC/Views/Shared/_MenuArrivals.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9NZW51QXJyaXZhbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Downloads/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC/BanHangThoiTrangMVC/Views/Shared/_MenuLeft.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9NZW51TGVmdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Downloads/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC/BanHangThoiTrangMVC/Views/Shared/_MenuProductCategory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9NZW51UHJvZHVjdENhdGVnb3J5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Downloads/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC/BanHangThoiTrangMVC/Views/Shared/_MenuTop.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9NZW51VG9wLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Downloads/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC/BanHangThoiTrangMVC/Views/ShoppingCart/CheckOut.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hvcHBpbmdDYXJ0XENoZWNrT3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Downloads/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC/BanHangThoiTrangMVC/Views/ShoppingCart/CheckOutSuccess.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hvcHBpbmdDYXJ0XENoZWNrT3V0U3VjY2Vzcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Downloads/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC/BanHangThoiTrangMVC/Views/ShoppingCart/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hvcHBpbmdDYXJ0XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Downloads/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC/BanHangThoiTrangMVC/Views/ShoppingCart/Partial_CheckOut.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hvcHBpbmdDYXJ0XFBhcnRpYWxfQ2hlY2tPdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Downloads/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC/BanHangThoiTrangMVC/Views/ShoppingCart/Partial_Item_Cart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hvcHBpbmdDYXJ0XFBhcnRpYWxfSXRlbV9DYXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Downloads/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC/BanHangThoiTrangMVC/Views/ShoppingCart/Partial_Item_ThanhToan.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hvcHBpbmdDYXJ0XFBhcnRpYWxfSXRlbV9UaGFuaFRvYW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Downloads/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC/BanHangThoiTrangMVC/Views/ShoppingCart/VnpayReturn.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hvcHBpbmdDYXJ0XFZucGF5UmV0dXJuLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Downloads/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC/BanHangThoiTrangMVC/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Downloads/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC.-v1rar/BanHangThoiTrangMVC/BanHangThoiTrangMVC/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

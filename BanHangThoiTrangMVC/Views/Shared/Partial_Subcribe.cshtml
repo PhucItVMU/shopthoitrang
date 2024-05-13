@@ -1,0 +1,59 @@
+﻿
+<div class="newsletter">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6">
+                <div class="newsletter_text d-flex flex-column justify-content-center align-items-lg-start align-items-md-center text-center">
+                    <h4>Newsletter</h4>
+                    <p>Subscribe to our newsletter and get 20% off your first purchase</p>
+                </div>
+            </div>
+            <div class="col-lg-6">
+                <form id="subscribeForm" method="post" action="/Home/Subscribe" onsubmit="event.preventDefault(); submitForm();">
+                    <input type="hidden" name="Email" id="newsletter_email">
+                    <button id="newsletter_submit" type="submit" class="newsletter_submit_btn trans_300" value="Submit">subscribe</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    function submitForm() {
+        var email = document.getElementById("newsletter_email").value;
+
+        fetch('/Home/Subscribe', {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json',
+                'X-CSRF-TOKEN': $('input[name="__RequestVerificationToken"]').val() // AntiForgeryToken
+            },
+            body: JSON.stringify({ Email: email })
+        })
+            .then(response => {
+                if (!response.ok) {
+                    throw new Error('Network response was not ok');
+                }
+                return response.json();
+            })
+            .then(data => {
+                // Xử lý kết quả thành công
+                OnSuccessSub(data);
+            })
+            .catch(error => {
+                console.error('There was an error!', error);
+                // Xử lý kết quả thất bại
+                OnFailureSub();
+            });
+    }
+
+    function OnSuccessSub(rs) {
+        if (rs.Success) {
+            alert("OK");
+        }
+    }
+
+    function OnFailureSub(rs) {
+        // Xử lý kết quả thất bại
+    }
+</script>

@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="C:\Users\Administrator\Downloads\BanHangThoiTrangMVC.-v1rar\BanHangThoiTrangMVC.-v1rar\BanHangThoiTrangMVC\BanHangThoiTrangMVC\obj\Release\net8.0\PubTmp\Out\" />
+  <dbfullsql path="C:\Users\Administrator\Downloads\BanHangThoiTrangMVC.-v1rar\BanHangThoiTrangMVC.-v1rar\BanHangThoiTrangMVC\BanHangThoiTrangMVC\obj\Release\net8.0\PubTmp\EFSQLScripts\BanHangThoiTrangMVC.Models.ApplicationDbContext.sql" />
+</sitemanifest>
